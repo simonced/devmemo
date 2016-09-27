@@ -12,4 +12,4 @@ Snippets are mainly personal code, but some could be found on the web. In that c
 
 Contains:
 
-- viewport (function) : returns an array with with and height on screen/window.
+- viewport (function) : returns an array with `width` and `height` of screen/window.
