@@ -1,3 +1,4 @@
+<?php
 /**
  * http identification, like htaccess
  */
