@@ -13,3 +13,19 @@ Snippets are mainly personal code, but some could be found on the web. In that c
 Contains:
 
 - viewport (function) : returns an array with `width` and `height` of screen/window.
+
+## CSS
+
+[Useful snippets.](css/base.css)
+
+Contains:
+
+- reset styles and utilities.
+
+## PHP
+
+[Useful snippets.](php/functions.php)
+
+Contains:
+
+- http_login (function) : acts like an htaccess, but it's more convinient to setup in some cases.
