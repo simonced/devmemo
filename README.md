@@ -8,16 +8,16 @@ Snippets are mainly personal code, but some could be found on the web. In that c
 
 ## JS
 
-[Useful pure JS snippets.](js/functions.pure.js)
+[Useful JS snippets.](js/functions.js)
 
 Contains:
 
 - viewport (function) : returns an array with `width` and `height` of screen/window.
-- TopArrow (object) : displays an arrow to scroll back up to top.
+- TopArrow (object - uses jQuery) : displays an arrow to scroll back up to top.
 
 ## CSS
 
-[Useful snippets.](css/base.css)
+[Useful CSS snippets.](css/base.css)
 
 Contains:
 
@@ -25,7 +25,7 @@ Contains:
 
 ## PHP
 
-[Useful snippets.](php/functions.php)
+[Useful PHP snippets.](php/functions.php)
 
 Contains:
 
