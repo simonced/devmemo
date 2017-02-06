@@ -3,7 +3,7 @@ Here is a list of problems we encountered during our developments.
 
 # regarding events
 
-## events related
+## document.activeElement vs window.event.target
 
 **2017-02-06**
 
