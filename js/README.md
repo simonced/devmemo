@@ -1,7 +1,7 @@
-# regarding events
-
 Some things work in some browsers but not all.  
 Here is a list of problems we encountered during our developments.
+
+# regarding events
 
 ## events related
 
