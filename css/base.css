@@ -1,4 +1,18 @@
 /* Base >>> */
+
+/* >>>
+box-sizing now supported by all major browsers
+source: https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+*/
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+/* <<< */
+
 html, body {
 	margin: 0;
 	padding: 0;
