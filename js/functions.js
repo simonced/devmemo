@@ -9,11 +9,6 @@
  * @return array {width, height}
  */
 function viewport() {
-	// exception
-	if(/iPad/.test(navigator.userAgent)) {
-		return { width: document.width, height: document.height};
-	}
-
 	var e = window, a = 'inner';
 	if (!('innerWidth' in window )) {
 		a = 'client';
