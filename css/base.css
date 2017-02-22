@@ -40,6 +40,13 @@ p {
 a img {
 	border: none;
 }
+
+/* forms related >>> */
+input, select, textarea {
+	font-size: 1rem; /* will prevent zooming when focused on some devices */
+}
+/* <<< */
+
 /* <<< */
 
 /* defaults >>> */
