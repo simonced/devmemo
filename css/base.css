@@ -135,6 +135,17 @@ input, select, textarea {
 	height: auto;
 }
 
+/* polaroid effect, useful on wordpress sites for example */
+.post-thumbnail img {
+    display: inline-block;
+    margin: 10px;
+    padding: 4px;
+    background: white;
+    box-shadow: 1px 1px 3px rgba(100, 100, 100, 0.7);
+    max-width: 100%;
+    /*max-width: 250px;*/
+    height: auto;
+}
 /* <<< */
 
 /* videos & embed >>> */
